@@ -17,5 +17,6 @@ class Solution {
         int n = sc.nextInt();                 // Read input number
         isEven(n);                            // Call the method
         sc.close();                           // Close the scanner
+        
     }
 }
