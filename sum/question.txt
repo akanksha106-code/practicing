@@ -1,6 +1,6 @@
 Problem: Check if a Number is Even or Odd
 
-Write a program that:
+Write a program that :
 1. Takes an integer input from the user
 2. Determines whether the number is even or odd
 3. Returns true if the number is even
