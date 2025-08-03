@@ -1,4 +1,4 @@
-Problem: Check if a Number is Even or Odd
+Problem: Check if a Number is Even or Odd.
 
 Write a program that :
 1. Takes an integer input from the user
